@@ -1,0 +1,20 @@
+        MAXIMOS PUNTAJES
+NIVEL 1  Player   15.497   22
+NIVEL 0  Player   6.631   23
+NIVEL 0  Player   7.134   23
+NIVEL 1  Player   15.984   31
+NIVEL 2  Player   16.575   57
+NIVEL 3  Player   78.451   294
+NIVEL 4  Player   45.132   126
+NIVEL 5  Player   26.916   103
+NIVEL 5  Player   26.794   103
+NIVEL 0  Player   6.974   1
+NIVEL 0  Player   32.329   1
+NIVEL 0  Player   5.027   1
+NIVEL 1  Player   24.222   34
+NIVEL 2  Player   51.490   63
+NIVEL 3  Player   62.556   272
+NIVEL 4  Player   29.151   96
+NIVEL 5  Player   39.570   109
+NIVEL 1  Player   35.421   34
+NIVEL 0  Player   1.656   1
