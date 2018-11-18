@@ -1,0 +1,3 @@
+Project made by me and my partner Sandra Camacho, for a college course.
+To run the game properly download all files and start with sokoban.py, the other files act as libraries to provide all the functions used 
+in the development of the game, which is made with unicurses
